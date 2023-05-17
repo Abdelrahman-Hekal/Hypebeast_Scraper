@@ -5,7 +5,7 @@
     <ProjectGuid>050ccd8e-42bb-40a1-b676-9e74cf1ea66a</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>Hypebeast_Scraper_v1.py</StartupFile>
+    <StartupFile>Hypebeast_Scraper_v1.3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Hypebeast_Scraper_v1.py" />
+    <Compile Include="Hypebeast_Scraper_v1.3.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
